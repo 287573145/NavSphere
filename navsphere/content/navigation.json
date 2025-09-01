@@ -9,7 +9,7 @@
           "id": "0_1",
           "title": "OMS",
           "href": "https://sp.jupyte.com/oms-ui/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "倍思奇OMS 整合线上全渠道销售平台订单，统筹管理海外仓和国内仓，实施订单跟踪物流信息，满足运营、仓储、物流的全流程管理。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -17,7 +17,7 @@
           "id": "0_2",
           "title": "Udesk",
           "href": "https://bestqi.s5.udesk.cn/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "客服工单管理系统",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -25,7 +25,7 @@
           "id": "0_3",
           "title": "OPS",
           "href": "https://sp.jupyte.com/ops-ui/setup/index",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "OPS 管理线上销售渠道业务， 为公司各运营管理部门提供包括销售数据统计，产品表现，广告分析，目标管理，利润核算等。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -33,7 +33,7 @@
           "id": "0_4",
           "title": "IMS",
           "href": "http://ims.jupyte.com/logincenter/ocp_workplace#/home",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "IMS 库存中心。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -41,7 +41,7 @@
           "id": "0_5",
           "title": "MPS",
           "href": "https://hzero.jupyte.com/scp/ar-snap",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "MPS 计划管理系统。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -49,7 +49,7 @@
           "id": "0_6",
           "title": "QMS",
           "href": "https://qms-admin-web.bestqi.com/overview",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "QMS 内部系统，给质检部质检员做质检用。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -57,7 +57,7 @@
           "id": "0_7",
           "title": "PLM",
           "href": "https://plm.bestqi.com/WebAccess/home.html#URL=centric%3A%2F%2FREFLECTION%2FINSTANCE%2F_CS_Data%2Fnull&NR=1&Tab=MyHome",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "PLM 产品管理系统。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -65,7 +65,7 @@
           "id": "0_8",
           "title": "NS",
           "href": "https://6797408-sb1.app.netsuite.com/pages/customerlogin.jsp?c=6797408_SB1&whence=",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "NS 财务管理系统。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -73,7 +73,7 @@
           "id": "0_9",
           "title": "基链",
           "href": "http://admin-web-sit.qvycloud.com/overview",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "基链 产品规格书、品牌官网、亚马逊Listing产品参数对比展示，产品信息的同步和告警；品牌官网产品刊登；产品工程参数转换等。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -81,7 +81,7 @@
           "id": "0_10",
           "title": "天机",
           "href": "https://tenchi-web-pub.jupyte.com/#/home",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "天机 一站式大数据平台，整合数据资源，探察业务价值，助力经营决策",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -89,7 +89,7 @@
           "id": "0_11",
           "title": "天枢",
           "href": "https://tsp-web.jupyte.com/#/home",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "天枢 倍思奇-API服务平台，统一对接外部平台，包含token管理，店铺数据管理，各大平台报告数据拉取存储。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -97,7 +97,7 @@
           "id": "0_12",
           "title": "天眼",
           "href": "https://tas-web-pub.jupyte.com/#/home",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "description": "天眼 监控业务异常&告警&闭环&数据异常管理等场景。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         }

@@ -1,6 +1,5 @@
 {
   "navigationItems": [
-
     {
       "id": "0",
       "title": "业务系统",
@@ -8,7 +7,7 @@
       "items": [
         {
           "id": "0_1",
-          "title": "Vercel",
+          "title": "OMS",
           "href": "https://vercel.com/",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
@@ -16,7 +15,79 @@
         },
         {
           "id": "0_2",
-          "title": "Vercel",
+          "title": "Udesk",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "0_3",
+          "title": "OPS",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "0_4",
+          "title": "IMS",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "0_5",
+          "title": "MPS",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "0_6",
+          "title": "QMS",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "0_7",
+          "title": "PLM",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "0_8",
+          "title": "NS",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "0_9",
+          "title": "基链",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "0_10",
+          "title": "天机",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "0_11",
+          "title": "天枢",
           "href": "https://vercel.com/",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
@@ -27,8 +98,6 @@
       "description": "",
       "enabled": true
     },
-
-
     {
       "id": "1",
       "title": "生产环境",
@@ -55,9 +124,7 @@
       "description": "",
       "enabled": true
     },
-
-
-  {
+    {
       "id": "2",
       "title": "测试环境",
       "icon": "Star",
@@ -83,11 +150,7 @@
       "description": "",
       "enabled": true
     },
-
-
-
-
-  {
+    {
       "id": "3",
       "title": "uat环境",
       "icon": "Star",
@@ -113,13 +176,6 @@
       "description": "",
       "enabled": true
     },
-
-
-
-
-
-
-
     {
       "id": "4",
       "title": "AI工具包",
@@ -402,7 +458,6 @@
             }
           ]
         },
-        
         {
           "id": "e2b07afd-968c-4985-b6c2-8dc504bce17b",
           "title": "录屏工具",
@@ -445,7 +500,6 @@
             }
           ]
         }
-        
       ]
     },
     {

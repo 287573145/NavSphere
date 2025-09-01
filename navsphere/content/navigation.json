@@ -41,7 +41,7 @@
           "id": "0_5",
           "title": "MPS",
           "href": "https://hzero.jupyte.com/scp/ar-snap",
-          "description": "MPS 计划管理系统。",
+          "description": "MPS 倍思奇全渠道智能补货系统，是一套预测驱动、规则引擎支持、流程自动化的补货决策平台。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },
@@ -57,7 +57,7 @@
           "id": "0_7",
           "title": "PLM",
           "href": "https://plm.bestqi.com/WebAccess/home.html#URL=centric%3A%2F%2FREFLECTION%2FINSTANCE%2F_CS_Data%2Fnull&NR=1&Tab=MyHome",
-          "description": "PLM 产品管理系统。",
+          "description": "PLM 产品生命周期管理系统。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
         },

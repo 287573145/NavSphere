@@ -138,7 +138,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                 searchQuery={searchQuery}
               />
             </div>
-            <div className="flex items-center gap-1">
+            {/* <div className="flex items-center gap-1">
               <ModeToggle />
               <Link
                 href="https://github.com/tianyaxiang/NavSphere"
@@ -176,7 +176,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
               >
                 <Menu className="h-5 w-5" />
               </Button>
-            </div>
+            </div> */}
           </div>
         </div>
 

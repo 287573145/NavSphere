@@ -24,7 +24,7 @@
         {
           "id": "0_3",
           "title": "OPS",
-          "href": "https://vercel.com/",
+          "href": "https://sp.jupyte.com/ops-ui/setup/index",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
@@ -32,7 +32,7 @@
         {
           "id": "0_4",
           "title": "IMS",
-          "href": "https://vercel.com/",
+          "href": "http://ims.jupyte.com/logincenter/ocp_workplace#/home",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
@@ -48,7 +48,7 @@
         {
           "id": "0_6",
           "title": "QMS",
-          "href": "https://vercel.com/",
+          "href": "https://qms-admin-web.bestqi.com/overview",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
@@ -56,7 +56,7 @@
         {
           "id": "0_7",
           "title": "PLM",
-          "href": "https://vercel.com/",
+          "href": "https://plm.bestqi.com/WebAccess/home.html#URL=centric%3A%2F%2FREFLECTION%2FINSTANCE%2F_CS_Data%2Fnull&NR=1&Tab=MyHome",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
@@ -64,7 +64,7 @@
         {
           "id": "0_8",
           "title": "NS",
-          "href": "https://vercel.com/",
+          "href": "https://6797408-sb1.app.netsuite.com/pages/customerlogin.jsp?c=6797408_SB1&whence=",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
@@ -72,7 +72,7 @@
         {
           "id": "0_9",
           "title": "基链",
-          "href": "https://vercel.com/",
+          "href": "http://admin-web-sit.qvycloud.com/overview",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
@@ -80,7 +80,7 @@
         {
           "id": "0_10",
           "title": "天机",
-          "href": "https://vercel.com/",
+          "href": "https://tenchi-web-pub.jupyte.com/#/home",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
@@ -88,7 +88,15 @@
         {
           "id": "0_11",
           "title": "天枢",
-          "href": "https://vercel.com/",
+          "href": "https://tsp-web.jupyte.com/#/home",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "0_12",
+          "title": "天眼",
+          "href": "https://tas-web-pub.jupyte.com/#/home",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true

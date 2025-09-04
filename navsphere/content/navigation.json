@@ -404,6 +404,14 @@
               "description": "访问 172.16.113.164",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.113.164",
               "enabled": true
+            },
+            {
+              "id": "1756965022685",
+              "title": "xxljob",
+              "href": "https://elk-aws.jupyte.com",
+              "description": "访问 elk-aws.jupyte.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=elk-aws.jupyte.com",
+              "enabled": true
             }
           ]
         },

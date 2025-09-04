@@ -315,6 +315,14 @@
               "description": "访问 gitlab.bestqi.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=gitlab.bestqi.com",
               "enabled": true
+            },
+            {
+              "id": "1756964758468",
+              "title": "私服仓库",
+              "href": "http://oms-nexus-dev.bestqi.com",
+              "description": "访问 oms-nexus-dev.bestqi.com",
+              "icon": "http://oms-nexus-dev.bestqi.com/static/rapture/resources/icons/x32/nexus-white.png?_v=3.39.0-01&_e=OSS",
+              "enabled": true
             }
           ]
         },

@@ -486,6 +486,14 @@
               "description": "访问 54.187.4.84",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
               "enabled": true
+            },
+            {
+              "id": "1756965951647",
+              "title": "rancher",
+              "href": "https://54.187.4.84",
+              "description": "访问 54.187.4.84",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
+              "enabled": true
             }
           ]
         }

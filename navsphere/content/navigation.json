@@ -461,6 +461,14 @@
               "description": "访问 elk-aws.jupyte.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=elk-aws.jupyte.com",
               "enabled": true
+            },
+            {
+              "id": "1756973338475",
+              "title": "Test-rancher-1263",
+              "href": "https://test-rancher-1263.bestqi.com/dashboard/c/c-xx6r7/explorer#cluster-events",
+              "description": "访问 test-rancher-1263.bestqi.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=test-rancher-1263.bestqi.com",
+              "enabled": true
             }
           ]
         },

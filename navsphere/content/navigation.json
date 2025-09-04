@@ -467,7 +467,7 @@
               "title": "Test-rancher-1263",
               "href": "https://test-rancher-1263.bestqi.com/dashboard/c/c-xx6r7/explorer#cluster-events",
               "description": "访问 test-rancher-1263.bestqi.com",
-              "icon": "/assets/images/logos/rancher.png",
+              "icon": "/assets/images/logos/rancher.jpg",
               "enabled": true
             }
           ]
@@ -500,7 +500,7 @@
               "title": "rancher",
               "href": "https://54.187.4.84",
               "description": "访问 54.187.4.84",
-              "icon": "/assets/images/logos/rancher.png",
+              "icon": "/assets/images/logos/rancher.jpg",
               "enabled": true
             },
             {
@@ -532,7 +532,7 @@
               "title": "nacos",
               "href": "http://54.187.4.84:26363",
               "description": "访问 54.187.4.84",
-              "icon": "/assets/images/logos/nacos.webp",
+              "icon": "/assets/images/logos/nacos.jpg",
               "enabled": true
             }
           ]

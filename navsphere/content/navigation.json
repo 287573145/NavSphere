@@ -372,6 +372,14 @@
               "description": "访问 10.101.0.20",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.101.0.20",
               "enabled": true
+            },
+            {
+              "id": "1756964951472",
+              "title": "sql-审计平台",
+              "href": "http://archery.jupyte.com",
+              "description": "访问 archery.jupyte.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=archery.jupyte.com",
+              "enabled": true
             }
           ]
         },

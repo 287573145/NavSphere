@@ -386,7 +386,7 @@
               "title": "streampark",
               "href": "http://172.16.113.164:10000",
               "description": "访问 172.16.113.164",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.113.164",
+              "icon": "/assets/images/logos/streampark.jpg",
               "enabled": true
             },
             {
@@ -394,7 +394,7 @@
               "title": "kuboard3.0",
               "href": "http://172.16.113.164:9999",
               "description": "访问 172.16.113.164",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.113.164",
+              "icon": "/assets/images/logos/kuboard.png",
               "enabled": true
             },
             {
@@ -402,7 +402,7 @@
               "title": "kuboard4.0",
               "href": "http://172.16.113.164:8008",
               "description": "访问 172.16.113.164",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.113.164",
+              "icon": "/assets/images/logos/kuboard.png",
               "enabled": true
             },
             {
@@ -410,7 +410,7 @@
               "title": "xxljob",
               "href": "https://elk-aws.jupyte.com",
               "description": "访问 elk-aws.jupyte.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=elk-aws.jupyte.com",
+              "icon": "/assets/images/logos/xxljob.jpg",
               "enabled": true
             },
             {
@@ -418,7 +418,7 @@
               "title": "Elk-aws",
               "href": "https://elk-aws.jupyte.com",
               "description": "访问 elk-aws.jupyte.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=elk-aws.jupyte.com",
+              "icon": "/assets/images/logos/xxljob.jpg",
               "enabled": true
             }
           ]
@@ -435,7 +435,7 @@
               "title": "jenkins",
               "href": "http://172.16.113.163:8080",
               "description": "访问 172.16.113.163",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.113.163",
+              "icon": "/assets/images/logos/jenkins.jpg",
               "enabled": true
             },
             {
@@ -443,7 +443,7 @@
               "title": "kuboard3.0",
               "href": "http://172.16.113.164:9090",
               "description": "访问 172.16.113.164",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.113.164",
+              "icon": "/assets/images/logos/kuboard.png",
               "enabled": true
             },
             {
@@ -451,7 +451,7 @@
               "title": "harbor",
               "href": "http://harbor.bestqi.cc",
               "description": "访问 harbor.bestqi.cc",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=harbor.bestqi.cc",
+              "icon": "/assets/images/logos/Harbor.jpg",
               "enabled": true
             },
             {
@@ -459,7 +459,7 @@
               "title": "xxljob",
               "href": "https://elk-aws.jupyte.com",
               "description": "访问 elk-aws.jupyte.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=elk-aws.jupyte.com",
+              "icon": "/assets/images/logos/xxljob.jpg",
               "enabled": true
             },
             {
@@ -467,7 +467,7 @@
               "title": "Test-rancher-1263",
               "href": "https://test-rancher-1263.bestqi.com/dashboard/c/c-xx6r7/explorer#cluster-events",
               "description": "访问 test-rancher-1263.bestqi.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=test-rancher-1263.bestqi.com",
+              "icon": "/assets/images/logos/rancher.png",
               "enabled": true
             }
           ]
@@ -484,7 +484,7 @@
               "title": "Elk-aws",
               "href": "https://elk-aws.jupyte.com",
               "description": "访问 elk-aws.jupyte.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=elk-aws.jupyte.com",
+              "icon": "/assets/images/logos/xxljob.jpg",
               "enabled": true
             },
             {
@@ -492,7 +492,7 @@
               "title": "jenkins",
               "href": "http://54.187.4.84:21424/",
               "description": "访问 54.187.4.84",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
+              "icon": "/assets/images/logos/jenkins.jpg",
               "enabled": true
             },
             {
@@ -500,7 +500,7 @@
               "title": "rancher",
               "href": "https://54.187.4.84",
               "description": "访问 54.187.4.84",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
+              "icon": "/assets/images/logos/rancher.png",
               "enabled": true
             },
             {
@@ -508,7 +508,7 @@
               "title": "harbor",
               "href": "https://harbor-aws-west-2.bestqi.cc",
               "description": "访问 harbor-aws-west-2.bestqi.cc",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=harbor-aws-west-2.bestqi.cc",
+              "icon": "/assets/images/logos/Harbor.jpg",
               "enabled": true
             },
             {
@@ -516,7 +516,7 @@
               "title": "streampark",
               "href": "http://54.187.4.84:22000",
               "description": "访问 54.187.4.84",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
+              "icon": "/assets/images/logos/streampark.jpg",
               "enabled": true
             },
             {
@@ -524,7 +524,7 @@
               "title": "kuboard",
               "href": "http://54.187.4.84:21423",
               "description": "访问 54.187.4.84",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
+              "icon": "/assets/images/logos/kuboard.png",
               "enabled": true
             },
             {
@@ -532,7 +532,7 @@
               "title": "nacos",
               "href": "http://54.187.4.84:26363",
               "description": "访问 54.187.4.84",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
+              "icon": "/assets/images/logos/nacos.webp",
               "enabled": true
             }
           ]

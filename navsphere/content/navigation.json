@@ -453,6 +453,14 @@
               "description": "访问 harbor.bestqi.cc",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=harbor.bestqi.cc",
               "enabled": true
+            },
+            {
+              "id": "1756965904286",
+              "title": "xxljob",
+              "href": "https://elk-aws.jupyte.com",
+              "description": "访问 elk-aws.jupyte.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=elk-aws.jupyte.com",
+              "enabled": true
             }
           ]
         },

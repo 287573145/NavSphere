@@ -437,6 +437,14 @@
               "description": "访问 172.16.113.163",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.113.163",
               "enabled": true
+            },
+            {
+              "id": "1756965869473",
+              "title": "kuboard3.0",
+              "href": "http://172.16.113.164:9090",
+              "description": "访问 172.16.113.164",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.113.164",
+              "enabled": true
             }
           ]
         },

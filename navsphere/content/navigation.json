@@ -356,6 +356,14 @@
               "description": "访问 10.101.0.21",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.101.0.21",
               "enabled": true
+            },
+            {
+              "id": "1756964911049",
+              "title": "cloud-canal",
+              "href": "http://10.101.2.170:8111",
+              "description": "访问 10.101.2.170",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.101.2.170",
+              "enabled": true
             }
           ]
         },

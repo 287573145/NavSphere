@@ -429,7 +429,16 @@
           "icon": "Star",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1756965851357",
+              "title": "jenkins",
+              "href": "http://172.16.113.163:8080",
+              "description": "访问 172.16.113.163",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.113.163",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "78922413-42c8-4f27-8a05-c39c80527943",

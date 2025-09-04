@@ -323,6 +323,14 @@
               "description": "访问 oms-nexus-dev.bestqi.com",
               "icon": "http://oms-nexus-dev.bestqi.com/static/rapture/resources/icons/x32/nexus-white.png?_v=3.39.0-01&_e=OSS",
               "enabled": true
+            },
+            {
+              "id": "1756964836868",
+              "title": "jump",
+              "href": "http://172.16.110.84",
+              "description": "访问 172.16.110.84",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.110.84",
+              "enabled": true
             }
           ]
         },

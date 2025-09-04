@@ -380,6 +380,14 @@
               "description": "访问 archery.jupyte.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=archery.jupyte.com",
               "enabled": true
+            },
+            {
+              "id": "1756964975268",
+              "title": "streampark",
+              "href": "http://172.16.113.164:10000",
+              "description": "访问 172.16.113.164",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.113.164",
+              "enabled": true
             }
           ]
         },

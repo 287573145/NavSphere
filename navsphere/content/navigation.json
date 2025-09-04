@@ -307,7 +307,16 @@
           "icon": "Star",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1756964732446",
+              "title": "Gitlab",
+              "href": "http://gitlab.bestqi.com",
+              "description": "访问 gitlab.bestqi.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=gitlab.bestqi.com",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "96de6b65-d7fd-418f-b186-733237cf202b",

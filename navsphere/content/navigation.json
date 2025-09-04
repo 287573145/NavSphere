@@ -510,6 +510,14 @@
               "description": "访问 54.187.4.84",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
               "enabled": true
+            },
+            {
+              "id": "1756965995520",
+              "title": "kuboard",
+              "href": "http://54.187.4.84:21423",
+              "description": "访问 54.187.4.84",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
+              "enabled": true
             }
           ]
         }

@@ -364,6 +364,14 @@
               "description": "访问 10.101.2.170",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.101.2.170",
               "enabled": true
+            },
+            {
+              "id": "1756964934627",
+              "title": "harbor",
+              "href": "http://10.101.0.20",
+              "description": "访问 10.101.0.20",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.101.0.20",
+              "enabled": true
             }
           ]
         },

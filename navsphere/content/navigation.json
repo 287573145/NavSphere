@@ -518,6 +518,14 @@
               "description": "访问 54.187.4.84",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
               "enabled": true
+            },
+            {
+              "id": "1756966008748",
+              "title": "nacos",
+              "href": "http://54.187.4.84:26363",
+              "description": "访问 54.187.4.84",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
+              "enabled": true
             }
           ]
         }

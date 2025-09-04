@@ -148,6 +148,15 @@
       "enabled": true
     },
     {
+      "id": "1756955052947",
+      "title": "IT支持系统",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "生产环境",
       "icon": "Star",
@@ -938,15 +947,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1756955052947",
-      "title": "IT支持系统",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }

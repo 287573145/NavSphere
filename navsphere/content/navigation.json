@@ -478,6 +478,14 @@
               "description": "访问 elk-aws.jupyte.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=elk-aws.jupyte.com",
               "enabled": true
+            },
+            {
+              "id": "1756965936910",
+              "title": "jenkins",
+              "href": "http://54.187.4.84:21424/",
+              "description": "访问 54.187.4.84",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=54.187.4.84",
+              "enabled": true
             }
           ]
         }

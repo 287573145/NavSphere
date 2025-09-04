@@ -340,7 +340,16 @@
           "icon": "Star",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1756964869763",
+              "title": "jenkins-new",
+              "href": "http://10.101.0.21:8080",
+              "description": "访问 10.101.0.21",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.101.0.21",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "bef6f6e6-a074-4351-a0ed-1c9968eb2de0",

@@ -154,7 +154,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "29d5bcf0-cab6-49d0-8d24-b14ead4b6d89",
+          "title": "本地",
+          "icon": "Star",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",

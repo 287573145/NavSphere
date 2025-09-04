@@ -118,7 +118,16 @@
           "enabled": true
         }
       ],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "341cbfda-239f-4f03-8ff8-5c73c817660b",
+          "title": "生产环境",
+          "icon": "Star",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ],
       "description": "",
       "enabled": true
     },
@@ -354,7 +363,7 @@
       "id": "3",
       "title": "uat环境",
       "icon": "Star",
-     "items": [
+      "items": [
         {
           "id": "1_4",
           "title": "IMS",

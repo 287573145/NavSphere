@@ -313,7 +313,7 @@
               "title": "Gitlab",
               "href": "http://gitlab.bestqi.com",
               "description": "访问 gitlab.bestqi.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=gitlab.bestqi.com",
+              "icon": "/assets/images/logos/gitLab.jpg",
               "enabled": true
             },
             {
@@ -321,7 +321,7 @@
               "title": "私服仓库",
               "href": "http://oms-nexus-dev.bestqi.com",
               "description": "访问 oms-nexus-dev.bestqi.com",
-              "icon": "http://oms-nexus-dev.bestqi.com/static/rapture/resources/icons/x32/nexus-white.png?_v=3.39.0-01&_e=OSS",
+              "icon": "/assets/images/logos/nexus.png",
               "enabled": true
             },
             {
@@ -329,7 +329,7 @@
               "title": "jump",
               "href": "http://172.16.110.84",
               "description": "访问 172.16.110.84",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.110.84",
+              "icon": "/assets/images/logos/JumpServer.jpg",
               "enabled": true
             }
           ]
@@ -346,7 +346,7 @@
               "title": "jenkins-new",
               "href": "http://10.101.0.21:8080",
               "description": "访问 10.101.0.21",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.101.0.21",
+              "icon": "/assets/images/logos/jenkins.jpg",
               "enabled": true
             },
             {
@@ -354,7 +354,7 @@
               "title": "jenkins-old",
               "href": "http://10.101.0.21",
               "description": "访问 10.101.0.21",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.101.0.21",
+              "icon": "/assets/images/logos/jenkins.jpg",
               "enabled": true
             },
             {
@@ -362,7 +362,7 @@
               "title": "cloud-canal",
               "href": "http://10.101.2.170:8111",
               "description": "访问 10.101.2.170",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.101.2.170",
+              "icon": "/assets/images/logos/CloudCanal.svg",
               "enabled": true
             },
             {
@@ -370,7 +370,7 @@
               "title": "harbor",
               "href": "http://10.101.0.20",
               "description": "访问 10.101.0.20",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=10.101.0.20",
+              "icon": "/assets/images/logos/Harbor.jpg",
               "enabled": true
             },
             {

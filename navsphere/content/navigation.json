@@ -178,6 +178,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "78922413-42c8-4f27-8a05-c39c80527943",
+          "title": "aws环境",
+          "icon": "Star",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

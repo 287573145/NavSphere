@@ -554,9 +554,9 @@
             },
             {
               "id": "bigdata4",
-              "title": "doris",
-              "href": "http://10.101.2.115:8004/webui/query/editor?feIp=10.101.2.115&jdbcPort=9030&httpPort=8030",
-              "description": "doris",
+              "title": "doris-manager",
+              "href": "http://10.101.2.115:8004/login",
+              "description": "doris管理平台",
               "icon": "/assets/doris-manager.png",
               "enabled": true
             }

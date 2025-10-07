@@ -336,7 +336,7 @@
         },
         {
           "id": "96de6b65-d7fd-418f-b186-733237cf202b",
-          "title": "生产环境",
+          "title": "生产环境-aliyun",
           "icon": "Star",
           "description": "",
           "enabled": true,
@@ -345,7 +345,7 @@
               "id": "1756964869763",
               "title": "jenkins-new",
               "href": "http://10.101.0.21:8080",
-              "description": "访问 10.101.0.21",
+              "description": "新版本流水线环境",
               "icon": "/assets/images/logos/jenkins.jpg",
               "enabled": true
             },
@@ -353,7 +353,7 @@
               "id": "1756964885662",
               "title": "jenkins-old",
               "href": "http://10.101.0.21",
-              "description": "访问 10.101.0.21",
+              "description": "旧版本流水线环境",
               "icon": "/assets/images/logos/jenkins.jpg",
               "enabled": true
             },
@@ -361,7 +361,7 @@
               "id": "1756964911049",
               "title": "cloud-canal",
               "href": "http://10.101.2.170:8111",
-              "description": "访问 10.101.2.170",
+              "description": "数据同步软件(限aliyun环境使用)",
               "icon": "/assets/images/logos/CloudCanal.svg",
               "enabled": true
             },
@@ -369,7 +369,7 @@
               "id": "1756964934627",
               "title": "harbor",
               "href": "http://10.101.0.20",
-              "description": "访问 10.101.0.20",
+              "description": "线上镜像仓库",
               "icon": "/assets/images/logos/Harbor.jpg",
               "enabled": true
             },
@@ -377,7 +377,7 @@
               "id": "1756964951472",
               "title": "sql-审计平台",
               "href": "http://archery.jupyte.com",
-              "description": "访问 archery.jupyte.com",
+              "description": "sql执行审管理",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=archery.jupyte.com",
               "enabled": true
             },
@@ -385,7 +385,7 @@
               "id": "1756964975268",
               "title": "streampark",
               "href": "http://172.16.113.164:10000",
-              "description": "访问 172.16.113.164",
+              "description": "flink实时流处理平台",
               "icon": "/assets/images/logos/streampark.jpg",
               "enabled": true
             },
@@ -393,7 +393,7 @@
               "id": "1756964987701",
               "title": "kuboard3.0",
               "href": "http://172.16.113.164:9999",
-              "description": "访问 172.16.113.164",
+              "description": "运维/架构单独使用",
               "icon": "/assets/images/logos/kuboard.png",
               "enabled": true
             },
@@ -401,23 +401,15 @@
               "id": "1756965007373",
               "title": "kuboard4.0",
               "href": "http://172.16.113.164:8008",
-              "description": "访问 172.16.113.164",
+              "description": "it研发使用",
               "icon": "/assets/images/logos/kuboard.png",
               "enabled": true
             },
             {
               "id": "1756965022685",
-              "title": "xxljob",
-              "href": "https://elk-aws.jupyte.com",
-              "description": "访问 elk-aws.jupyte.com",
-              "icon": "/assets/images/logos/xxljob.jpg",
-              "enabled": true
-            },
-            {
-              "id": "1756965039147",
-              "title": "Elk-aws",
-              "href": "https://elk-aws.jupyte.com",
-              "description": "访问 elk-aws.jupyte.com",
+              "title": "elk-aliyun",
+              "href": "https://elk.jupyte.com",
+              "description": "阿里云环境elk",
               "icon": "/assets/images/logos/xxljob.jpg",
               "enabled": true
             }
@@ -434,7 +426,7 @@
               "id": "1756965851357",
               "title": "jenkins",
               "href": "http://172.16.113.163:8080",
-              "description": "访问 172.16.113.163",
+              "description": "新版本流水线",
               "icon": "/assets/images/logos/jenkins.jpg",
               "enabled": true
             },
@@ -442,7 +434,7 @@
               "id": "1756965869473",
               "title": "kuboard3.0",
               "href": "http://172.16.113.164:9090",
-              "description": "访问 172.16.113.164",
+              "description": "test/uat环境研发使用环境",
               "icon": "/assets/images/logos/kuboard.png",
               "enabled": true
             },
@@ -450,16 +442,8 @@
               "id": "1756965887784",
               "title": "harbor",
               "href": "http://harbor.bestqi.cc",
-              "description": "访问 harbor.bestqi.cc",
+              "description": "测试环境镜像仓库",
               "icon": "/assets/images/logos/Harbor.jpg",
-              "enabled": true
-            },
-            {
-              "id": "1756965904286",
-              "title": "xxljob",
-              "href": "https://elk-aws.jupyte.com",
-              "description": "访问 elk-aws.jupyte.com",
-              "icon": "/assets/images/logos/xxljob.jpg",
               "enabled": true
             },
             {
@@ -474,7 +458,7 @@
         },
         {
           "id": "78922413-42c8-4f27-8a05-c39c80527943",
-          "title": "aws环境",
+          "title": "生产环境-aws",
           "icon": "Star",
           "description": "",
           "enabled": true,
@@ -489,7 +473,7 @@
             },
             {
               "id": "1756965936910",
-              "title": "jenkins",
+              "title": "jenkins(it/iot共用)",
               "href": "http://54.187.4.84:21424/",
               "description": "访问 54.187.4.84",
               "icon": "/assets/images/logos/jenkins.jpg",
@@ -507,7 +491,7 @@
               "id": "1756965965456",
               "title": "harbor",
               "href": "https://harbor-aws-west-2.bestqi.cc",
-              "description": "访问 harbor-aws-west-2.bestqi.cc",
+              "description": "镜像仓库",
               "icon": "/assets/images/logos/Harbor.jpg",
               "enabled": true
             },
@@ -515,7 +499,7 @@
               "id": "1756965980190",
               "title": "streampark",
               "href": "http://54.187.4.84:22000",
-              "description": "访问 54.187.4.84",
+              "description": "flink实时流处理平台",
               "icon": "/assets/images/logos/streampark.jpg",
               "enabled": true
             },

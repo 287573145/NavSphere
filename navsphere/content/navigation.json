@@ -312,7 +312,7 @@
               "id": "1756964732446",
               "title": "Gitlab",
               "href": "http://gitlab.bestqi.com",
-              "description": "访问 gitlab.bestqi.com",
+              "description": "代码仓库",
               "icon": "/assets/images/logos/gitLab.jpg",
               "enabled": true
             },
@@ -328,7 +328,7 @@
               "id": "1756964836868",
               "title": "jump",
               "href": "http://172.16.110.84",
-              "description": "访问 172.16.110.84",
+              "description": "线上环境堡垒机",
               "icon": "/assets/images/logos/JumpServer.jpg",
               "enabled": true
             }
@@ -465,7 +465,7 @@
           "items": [
             {
               "id": "1756965925040",
-              "title": "Elk-aws",
+              "title": "elk-aws",
               "href": "https://elk-aws.jupyte.com",
               "description": "访问 elk-aws.jupyte.com",
               "icon": "/assets/images/logos/xxljob.jpg",
@@ -473,9 +473,9 @@
             },
             {
               "id": "1756965936910",
-              "title": "jenkins(it/iot共用)",
+              "title": "jenkins",
               "href": "http://54.187.4.84:21424/",
-              "description": "访问 54.187.4.84",
+              "description": "(it/iot共用)流水线环境",
               "icon": "/assets/images/logos/jenkins.jpg",
               "enabled": true
             },
@@ -483,7 +483,7 @@
               "id": "1756965951647",
               "title": "rancher",
               "href": "https://54.187.4.84",
-              "description": "访问 54.187.4.84",
+              "description": "k8s集群管理",
               "icon": "/assets/images/logos/rancher.jpg",
               "enabled": true
             },
@@ -507,15 +507,15 @@
               "id": "1756965995520",
               "title": "kuboard",
               "href": "http://54.187.4.84:21423",
-              "description": "访问 54.187.4.84",
+              "description": "运维/架构单独使用",
               "icon": "/assets/images/logos/kuboard.png",
               "enabled": true
             },
             {
               "id": "1756966008748",
               "title": "nacos",
-              "href": "http://54.187.4.84:26363",
-              "description": "访问 54.187.4.84",
+              "href": "http://54.187.4.84:26363/nacos",
+              "description": "aws-nacos配置中心",
               "icon": "/assets/images/logos/nacos.jpg",
               "enabled": true
             }

@@ -302,14 +302,14 @@
       "items": [],
       "subCategories": [
         {
-          "id": "29d5bcf0-cab6-49d0-8d24-b14ead4b6d89",
+          "id": "local-dev",
           "title": "本地",
           "icon": "Star",
           "description": "",
           "enabled": true,
           "items": [
             {
-              "id": "1756964732446",
+              "id": "local_1",
               "title": "Gitlab",
               "href": "http://gitlab.bestqi.com",
               "description": "代码仓库",
@@ -317,7 +317,7 @@
               "enabled": true
             },
             {
-              "id": "1756964758468",
+              "id": "local_2",
               "title": "私服仓库",
               "href": "http://oms-nexus-dev.bestqi.com",
               "description": "访问 oms-nexus-dev.bestqi.com",
@@ -325,7 +325,7 @@
               "enabled": true
             },
             {
-              "id": "1756964836868",
+              "id": "local_3",
               "title": "jump",
               "href": "http://172.16.110.84",
               "description": "线上环境堡垒机",
@@ -335,14 +335,14 @@
           ]
         },
         {
-          "id": "96de6b65-d7fd-418f-b186-733237cf202b",
+          "id": "aliyun_prod",
           "title": "生产环境-aliyun",
           "icon": "Star",
           "description": "",
           "enabled": true,
           "items": [
             {
-              "id": "1756964869763",
+              "id": "aliyun_prod1",
               "title": "jenkins-new",
               "href": "http://10.101.0.21:8080",
               "description": "新版本流水线环境",
@@ -350,7 +350,7 @@
               "enabled": true
             },
             {
-              "id": "1756964885662",
+              "id": "aliyun_prod2",
               "title": "jenkins-old",
               "href": "http://10.101.0.21",
               "description": "旧版本流水线环境",
@@ -358,7 +358,7 @@
               "enabled": true
             },
             {
-              "id": "1756964911049",
+              "id": "aliyun_prod3",
               "title": "cloud-canal",
               "href": "http://10.101.2.170:8111",
               "description": "数据同步软件(限aliyun环境使用)",
@@ -366,7 +366,7 @@
               "enabled": true
             },
             {
-              "id": "1756964934627",
+              "id": "aliyun_prod4",
               "title": "harbor",
               "href": "http://10.101.0.20",
               "description": "线上镜像仓库",
@@ -374,7 +374,7 @@
               "enabled": true
             },
             {
-              "id": "1756964951472",
+              "id": "aliyun_prod5",
               "title": "sql-审计平台",
               "href": "http://archery.jupyte.com",
               "description": "sql执行审管理",
@@ -382,7 +382,7 @@
               "enabled": true
             },
             {
-              "id": "1756964975268",
+              "id": "aliyun_prod6",
               "title": "streampark",
               "href": "http://172.16.113.164:10000",
               "description": "flink实时流处理平台",
@@ -390,7 +390,7 @@
               "enabled": true
             },
             {
-              "id": "1756964987701",
+              "id": "aliyun_prod7",
               "title": "kuboard3.0",
               "href": "http://172.16.113.164:9999",
               "description": "运维/架构单独使用",
@@ -398,7 +398,7 @@
               "enabled": true
             },
             {
-              "id": "1756965007373",
+              "id": "aliyun_prod8",
               "title": "kuboard4.0",
               "href": "http://172.16.113.164:8008",
               "description": "it研发使用",
@@ -406,7 +406,7 @@
               "enabled": true
             },
             {
-              "id": "1756965022685",
+              "id": "aliyun_prod9",
               "title": "elk-aliyun",
               "href": "https://elk.jupyte.com",
               "description": "阿里云环境elk",
@@ -416,14 +416,14 @@
           ]
         },
         {
-          "id": "bef6f6e6-a074-4351-a0ed-1c9968eb2de0",
+          "id": "test_env",
           "title": "测试环境",
           "icon": "Star",
           "description": "",
           "enabled": true,
           "items": [
             {
-              "id": "1756965851357",
+              "id": "test_env1",
               "title": "jenkins",
               "href": "http://172.16.113.163:8080",
               "description": "新版本流水线",
@@ -431,7 +431,7 @@
               "enabled": true
             },
             {
-              "id": "1756965869473",
+              "id": "test_env2",
               "title": "kuboard3.0",
               "href": "http://172.16.113.164:9090",
               "description": "test/uat环境研发使用环境",
@@ -439,7 +439,7 @@
               "enabled": true
             },
             {
-              "id": "1756965887784",
+              "id": "test_env3",
               "title": "harbor",
               "href": "http://harbor.bestqi.cc",
               "description": "测试环境镜像仓库",
@@ -447,7 +447,7 @@
               "enabled": true
             },
             {
-              "id": "1756973338475",
+              "id": "test_env4",
               "title": "Test-rancher-1263",
               "href": "https://test-rancher-1263.bestqi.com/dashboard/c/c-xx6r7/explorer#cluster-events",
               "description": "访问 test-rancher-1263.bestqi.com",
@@ -457,14 +457,14 @@
           ]
         },
         {
-          "id": "78922413-42c8-4f27-8a05-c39c80527943",
+          "id": "aws_prod",
           "title": "生产环境-aws",
           "icon": "Star",
           "description": "",
           "enabled": true,
           "items": [
             {
-              "id": "1756965925040",
+              "id": "aws_prod1",
               "title": "elk-aws",
               "href": "https://elk-aws.jupyte.com",
               "description": "访问 elk-aws.jupyte.com",
@@ -472,7 +472,7 @@
               "enabled": true
             },
             {
-              "id": "1756965936910",
+              "id": "aws_prod2",
               "title": "jenkins",
               "href": "http://54.187.4.84:21424/",
               "description": "(it/iot共用)流水线环境",
@@ -480,7 +480,7 @@
               "enabled": true
             },
             {
-              "id": "1756965951647",
+              "id": "aws_prod3",
               "title": "rancher",
               "href": "https://54.187.4.84",
               "description": "k8s集群管理",
@@ -488,7 +488,7 @@
               "enabled": true
             },
             {
-              "id": "1756965965456",
+              "id": "aws_prod4",
               "title": "harbor",
               "href": "https://harbor-aws-west-2.bestqi.cc",
               "description": "镜像仓库",
@@ -496,7 +496,7 @@
               "enabled": true
             },
             {
-              "id": "1756965980190",
+              "id": "aws_prod5",
               "title": "streampark",
               "href": "http://54.187.4.84:22000",
               "description": "flink实时流处理平台",
@@ -504,7 +504,7 @@
               "enabled": true
             },
             {
-              "id": "1756965995520",
+              "id": "aws_prod6",
               "title": "kuboard",
               "href": "http://54.187.4.84:21423",
               "description": "运维/架构单独使用",
@@ -512,11 +512,52 @@
               "enabled": true
             },
             {
-              "id": "1756966008748",
+              "id": "aws_prod7",
               "title": "nacos",
               "href": "http://54.187.4.84:26363/nacos",
               "description": "aws-nacos配置中心",
               "icon": "/assets/images/logos/nacos.jpg",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "bigdata",
+          "title": "大数据",
+          "icon": "Star",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "bigdata1",
+              "title": "DS",
+              "href": "http://10.101.0.192:12345/dolphinscheduler/ui/projects/list",
+              "description": "DS",
+              "icon": "/assets/dolphin.ico",
+              "enabled": true
+            },
+            {
+              "id": "bigdata2",
+              "title": "quickBI",
+              "href": "https://bi.aliyun.com/workplatform",
+              "description": "quickBI",
+              "icon": "/assets/qucikbi.ico",
+              "enabled": true
+            },
+            {
+              "id": "bigdata3",
+              "title": "datavines",
+              "href": "https://dv-data.jupyte.com/#/login",
+              "description": "datavines",
+              "icon": "/assets/datavines.png",
+              "enabled": true
+            },
+            {
+              "id": "bigdata4",
+              "title": "doris",
+              "href": "http://10.101.2.115:8004/webui/query/editor?feIp=10.101.2.115&jdbcPort=9030&httpPort=8030",
+              "description": "doris",
+              "icon": "/assets/doris-manager.png",
               "enabled": true
             }
           ]

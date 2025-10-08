@@ -127,6 +127,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1_0",
+              "title": "TMS",
+              "href": "http://172.16.113.135:30708/",
+              "description": "倍思奇TMS 运输管理系统，统筹管理海外仓和国内仓的运输业务，实施运输跟踪物流信息，满足运营、仓储、物流的全流程管理。",
+              "icon": "/assets/images/logos/oms.jpg",
+              "enabled": true
+            },
+            {
               "id": "1_1",
               "title": "OMS",
               "href": "https://oms-test-1263.bestqi.com/oms-ui/",
